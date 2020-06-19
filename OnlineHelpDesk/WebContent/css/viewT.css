@@ -1,0 +1,116 @@
+@charset "ISO-8859-1";
+
+.b
+{
+	padding:5%;
+	color:black;
+	box-shadow:0px 8px 16px 0px rgba(0,0,0,0.8);
+	border:1px solid black;
+	font-size:20px;
+	margin-top:2%;
+	background-color:white;
+	width:100%;
+	padding-bottom:10%;
+	margin-bottom:2%;
+	
+}
+
+.b h2
+{
+	text-align:left;	
+}
+
+.b1 
+{
+	margin-top:2%;
+	background-color:#a1a1a1;
+	padding:2%;
+	border:1px solid #d5d8eb;
+	border-radius:10px;
+	width:100%;
+	colour :blue;
+	word-break: break-all;
+}
+
+.b2 
+{
+	margin-top:2%;
+	background-color:#a1a1a1;
+	padding:2%;
+	border:1px solid #d5d8eb;
+	border-radius:10px;
+	width:100%;
+	colour : #000000;
+	word-break: break-all;
+}
+
+.b3 button
+{
+	margin-top:4%;
+	font-size:20px;
+	width: 50%;
+	margin-left:28%;
+}
+
+.b3 textarea
+{
+	margin-top:2%;
+	width: 100%;
+	height:200px;
+}
+
+.b3 input
+{
+	margin-top:2%;
+	font-size:20px;
+	width: 50%;
+	margin-left:28%;
+}
+
+.a
+{
+	
+}
+
+.scro
+{
+	width:100%;
+	height:670px;
+	overflow-x:hidden;
+	overflow-y:auto;
+}
+
+.scro h2{
+	color:black;
+}
+.b1 p{
+	color:black;
+}
+.b2 p{
+	color:black;
+}
+.gbar{
+	background: linear-gradient(181deg, #007dff, #9acce0);
+background-size: 400% 400%;
+
+-webkit-animation: AnimationName 29s ease infinite;
+-moz-animation: AnimationName 29s ease infinite;
+animation: AnimationName 29s ease infinite;
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:51% 0%}
+    50%{background-position:50% 100%}
+    100%{background-position:51% 0%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:51% 0%}
+    50%{background-position:50% 100%}
+    100%{background-position:51% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:51% 0%}
+    50%{background-position:50% 100%}
+    100%{background-position:51% 0%}
+}
+	
+}
